@@ -1,0 +1,24 @@
+[project]
+name = "nutricompare-llm-chatbot"
+version = "0.1.0"
+description = "A production-style multi-LLM nutrition chatbot with automated LLM-as-a-judge evaluation."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Fatemeh Niyavand" }
+]
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"
