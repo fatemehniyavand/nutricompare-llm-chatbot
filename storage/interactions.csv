@@ -41,3 +41,459 @@ So, the total estimated calorie count is approximately 270 calories.
 
 Please note that this is an estimate, as exact calorie counts can vary depending on cooking methods and specific types of eggs and rice.",,270.0,high
 2026-06-01T13:59:41.755989,today summary,meal_memory_command,,,,,system
+2026-06-01T14:15:53.689120,2 eggs and 100g rice,calorie_estimation,"To estimate the calories for your meal of 2 eggs and 100g of rice:
+
+1. **Eggs**: On average, a large egg contains about 70 calories. So, 2 eggs would be approximately:
+   - 2 eggs x 70 calories = **140 calories**.
+
+2. **Rice**: Cooked white rice has about 130 calories per 100g. Therefore:
+   - 100g rice = **130 calories**.
+
+**Total estimated calories**: 
+- 140 calories (eggs) + 130 calories (rice) = **270 calories**.
+
+Keep in mind that these values can vary based on the specific type of eggs and rice used, as well as cooking methods.","To estimate the calorie count of 2 eggs and 100g of rice, let's break it down:
+
+- 2 eggs: Approximately 140 calories (assuming large eggs, with about 70 calories per egg)
+- 100g of rice: This can vary depending on the type of rice, but a rough estimate for cooked white rice is about 130 calories per 100g. For brown rice, it's around 110 calories per 100g. Let's assume an average of 120 calories for 100g of cooked rice, as the type of rice isn't specified.
+
+Total estimated calorie count: 140 calories (from eggs) + 120 calories (from rice) = 260 calories.
+
+Please note, this is an approximation. The actual calorie count can vary based on the size of the eggs, the type of rice, and whether the rice is cooked or uncooked (since cooking rice absorbs water, changing the calorie density per gram). For more precise nutrition information, it's always best to consult a reliable nutrition source or a professional.",,265.0,high
+2026-06-01T14:15:55.508488,apple 200g,calorie_estimation,"A 200g apple typically contains about 104 calories. This estimate can vary slightly depending on the specific type of apple, as different varieties may have different sugar and water content. If you need more precise information, consider checking the specific variety you have.","For a 200g apple, the estimated calorie count is approximately 95-100 calories. This is based on the average calorie density of apples, which is around 0.5 calories per gram. However, please note that the exact calorie count may vary depending on the apple variety and ripeness.",,102.0,high
+2026-06-01T14:15:57.922389,100g chicken and 50g rice,calorie_estimation,"To estimate the calories in your meal of 100g of chicken and 50g of rice:
+
+- **Chicken (100g)**: Approximately 165 calories (this can vary based on the cooking method and whether the skin is on or off).
+- **Rice (50g, cooked)**: Approximately 65 calories (this can vary slightly depending on the type of rice).
+
+**Total estimated calories**: 165 + 65 = **230 calories**.
+
+Keep in mind that these are approximate values and can vary based on specific preparation methods and ingredients.","To estimate the calorie count of 100g chicken and 50g rice, I'll use approximate values. 
+
+The calorie count for 100g of chicken can vary depending on the type and cooking method, but a typical value is around 165 calories for cooked, boneless, skinless chicken breast.
+
+For 50g of rice, assuming it's cooked white rice, the calorie count is approximately 70-80 calories. I'll use 75 calories as a rough estimate.
+
+So, the total estimated calorie count for 100g chicken and 50g rice is around 165 (chicken) + 75 (rice) = 240 calories. 
+
+Please note that this is an approximate value, as exact calorie counts depend on specific ingredients, cooking methods, and any added seasonings or sauces.",,235.0,high
+2026-06-01T14:15:59.846757,banana 120g,calorie_estimation,A 120g banana typically contains about 105 calories. This is based on an average of approximately 89 calories per 100 grams of banana. Keep in mind that the exact calorie count can vary slightly depending on the specific variety and ripeness of the banana.,"For a 120g banana, the estimated calorie count is approximately 95 calories. This is based on the average calorie density of bananas, which is around 0.79 calories per gram. Please note that exact calorie counts can vary depending on the ripeness and variety of the banana, but 95 calories is a reasonable estimate.",,100.0,high
+2026-06-01T14:16:01.949677,2 boiled eggs,nutrition_qa,"Two boiled eggs typically contain about 140-160 calories in total. This estimate assumes each large boiled egg has around 70-80 calories. Keep in mind that the exact calorie count can vary slightly based on the size of the eggs. If you have any other questions about nutrition or meal planning, feel free to ask!","For 2 boiled eggs, the approximate calorie count is 140 calories. This assumes large eggs. The exact calorie count may vary depending on the size of the eggs. 
+
+In addition to calories, 2 boiled eggs provide about 12 grams of protein and various essential vitamins and minerals like vitamin D and choline. 
+
+If you have specific dietary needs or restrictions, it's always a good idea to consult a qualified healthcare professional or registered dietitian for personalized advice.",,150.0,high
+2026-06-01T14:16:04.426686,100g cooked pasta,calorie_estimation,"Cooked pasta typically contains about 150 calories per 100 grams. Therefore, for 100 grams of cooked pasta, you can estimate approximately 150 calories. 
+
+Keep in mind that the exact calorie count can vary slightly depending on the type of pasta and how it was prepared.","For 100g of cooked pasta, the calorie estimate is approximately 150-160 calories. However, this can vary depending on the type of pasta and any added ingredients. This estimate is based on average values for cooked pasta. If you have a specific type of pasta or any additional ingredients, the calorie count may be different.",,155.0,high
+2026-06-01T14:16:04.426990,100g salmon,out_of_domain,,,,,blocked
+2026-06-01T14:16:04.427174,50g almonds,out_of_domain,,,,,blocked
+2026-06-01T14:16:06.624633,250ml milk,calorie_estimation,"To estimate the calories in 250 ml of milk, it depends on the type of milk:
+
+- Whole milk: approximately 150 calories
+- 2% reduced-fat milk: approximately 120 calories
+- 1% low-fat milk: approximately 100 calories
+- Skim milk: approximately 80 calories
+
+If you let me know the type of milk, I can provide a more specific estimate!","To estimate the calories in 250ml of milk, I'll need to make an assumption about the type of milk. There are several types, including whole, low-fat, and non-fat milk, as well as milk alternatives like almond or soy milk.
+
+Assuming you're referring to whole cow's milk, a rough estimate would be around 170-200 calories per 250ml. However, this can vary depending on the specific type and brand of milk.
+
+If you could provide more information about the type of milk, I'd be happy to give a more accurate estimate.",,175.0,low
+2026-06-01T14:16:09.082609,100g yogurt and 30g oats,calorie_estimation,"To estimate the calories for 100g of yogurt and 30g of oats:
+
+- **Yogurt (plain, low-fat)**: Approximately 60 calories per 100g.
+- **Oats (rolled or quick)**: Approximately 114 calories per 30g.
+
+Now, let's add them together:
+
+- Yogurt: 60 calories
+- Oats: 114 calories
+
+**Total estimated calories**: 60 + 114 = **174 calories**.
+
+Keep in mind that the exact calorie count can vary based on the specific type of yogurt (e.g., full-fat, flavored) and oats used.","To estimate the calorie count of 100g yogurt and 30g oats, I'll use approximate values. 
+
+A 100g serving of yogurt typically contains around 50-60 calories, depending on the type (low-fat, non-fat, or full-fat). For oats, a 30g serving is roughly 1/4 cup, which contains approximately 100-110 calories.
+
+So, the total estimated calorie count for 100g yogurt and 30g oats would be around 150-170 calories. Please note that this is an approximation, as exact calorie counts depend on specific brands and types of yogurt and oats.",,172.0,high
+2026-06-01T14:16:12.133425,1 slice of bread and 10g butter,calorie_estimation,"To estimate the calories for your meal:
+
+1. **Slice of bread**: A typical slice of white or whole wheat bread contains about 70-80 calories. I'll use 75 calories for this estimate.
+2. **Butter**: Butter has approximately 7 calories per gram. For 10 grams, that would be about 70 calories.
+
+Now, adding these together:
+- Bread: 75 calories
+- Butter: 70 calories
+
+**Total estimated calories**: 75 + 70 = **145 calories**.
+
+Keep in mind that the exact calorie count can vary based on the specific type of bread and butter used.","To estimate the calorie count of 1 slice of bread with 10g of butter, let's break it down:
+
+- A slice of bread typically has around 80-100 calories, depending on the type of bread. Let's assume an average of 90 calories for a standard slice.
+- 10g of butter is approximately 1/2 tablespoon (since 1 tablespoon of butter is about 14g). Butter has about 7 calories per gram, so 10g of butter would have around 70 calories.
+
+Adding these together, the estimated calorie count for 1 slice of bread with 10g of butter would be approximately 160 calories (90 calories from the bread + 70 calories from the butter). Please note, this is an estimate, as exact calorie counts can vary based on the specific types of bread and butter used.",,152.5,high
+2026-06-01T14:16:13.676375,200g potato,calorie_estimation,"A 200g serving of potato typically contains about 150-160 calories, depending on the variety and cooking method. This estimate assumes the potato is boiled or baked without added fats. If you have a specific type of potato or preparation method in mind, let me know for a more tailored estimate!","For a 200g potato, the estimated calorie count is around 140-160 calories. This assumes it's a medium-sized, boiled, or baked potato without any added ingredients. The exact calorie count may vary depending on the potato's variety, cooking method, and any additional toppings or seasonings.",,160.0,high
+2026-06-01T14:16:13.676728,100g avocado,out_of_domain,,,,,blocked
+2026-06-01T14:16:15.433014,150g beef steak,calorie_estimation,"A 150g serving of beef steak typically contains around 300 to 400 calories, depending on the cut and fat content. For example, lean cuts like sirloin may be on the lower end, while fattier cuts like ribeye may be higher. 
+
+If you have a specific cut in mind, I can provide a more tailored estimate!","For a 150g beef steak, the calorie estimate can vary depending on the cut and cooking method. However, a rough estimate for a lean cut of beef steak is around 350-400 calories. If it's a fattier cut, it could be closer to 500-550 calories. 
+
+To give a more accurate estimate, I'd need to know the specific cut of beef and how it's cooked (e.g., grilled, pan-fried, etc.).",,475.0,high
+2026-06-01T14:16:15.433425,100g tofu,out_of_domain,,,,,blocked
+2026-06-01T14:16:15.433676,orange 150g,out_of_domain,,,,,blocked
+2026-06-01T14:16:15.433874,100g carrots,out_of_domain,,,,,blocked
+2026-06-01T14:16:17.158409,100g cheese,calorie_estimation,"The calorie content of cheese can vary significantly depending on the type. However, a general estimate for common cheeses is around 350-400 calories per 100 grams.
+
+If you have a specific type of cheese in mind, I can provide a more tailored estimate!","For 100g of cheese, the calorie estimate can vary depending on the type of cheese. However, on average, 100g of cheese typically contains around 350-400 calories. 
+
+To give a more accurate estimate, I would need to know the specific type of cheese. Different types of cheese, such as cheddar, mozzarella, or feta, have different calorie contents. 
+
+If you provide the type of cheese, I can try to give a more precise estimate.",,400.0,high
+2026-06-01T14:16:19.783494,2 eggs and 1 banana,calorie_estimation,"To estimate the calories for 2 eggs and 1 banana:
+
+- **Eggs**: On average, a large egg contains about 70 calories. So, 2 eggs would be approximately 140 calories.
+- **Banana**: A medium banana typically has around 105 calories.
+
+Adding these together:
+- 2 eggs: 140 calories
+- 1 banana: 105 calories
+
+**Total estimated calories**: 140 + 105 = **245 calories**.
+
+Keep in mind that the exact calorie count can vary based on the size of the eggs and banana.","To estimate the calorie count of 2 eggs and 1 banana, I'll use approximate values. 
+
+2 large eggs typically contain around 140 calories. 
+1 medium banana contains approximately 105 calories.
+
+So, the total estimated calorie count for 2 eggs and 1 banana would be around 245 calories. 
+
+Please note that exact calorie counts can vary depending on the size of the eggs and banana. These values are approximate and based on average sizes.",,245.0,high
+2026-06-01T14:16:23.575697,100g rice and 100g chicken and 50g broccoli,calorie_estimation,"To estimate the calories for your meal of 100g rice, 100g chicken, and 50g broccoli, here are the approximate calorie values:
+
+- **100g cooked white rice**: about 130 calories
+- **100g cooked chicken breast**: about 165 calories
+- **50g cooked broccoli**: about 17 calories
+
+Now, let's add them up:
+
+- Rice: 130 calories
+- Chicken: 165 calories
+- Broccoli: 17 calories
+
+**Total estimated calories**: 130 + 165 + 17 = **312 calories**
+
+Keep in mind that these values can vary based on cooking methods and specific types of rice or chicken used.","To estimate the calorie count of your meal, I'll use approximate values for each food item. 
+
+- 100g of cooked rice is roughly 130-140 calories.
+- 100g of cooked chicken is approximately 165 calories.
+- 50g of broccoli is about 25 calories.
+
+Adding these up, your meal is approximately 320 calories (130 + 165 + 25). However, please note that this is an estimate, as exact calorie counts can vary based on cooking methods and specific ingredients used.",,316.0,high
+2026-06-01T14:16:26.542721,I ate 2 eggs and 200g potato,calorie_estimation,"To estimate the calories for your meal:
+
+- **Eggs**: On average, one large egg has about 70 calories. So, for 2 eggs, that's approximately 140 calories.
+- **Potato**: A medium potato (about 150g) has around 130 calories. For 200g, you can estimate roughly 175 calories.
+
+Adding these together:
+
+- Eggs: 140 calories
+- Potato: 175 calories
+
+**Total estimated calories**: 140 + 175 = **315 calories**.
+
+Please note that these are approximate values and can vary based on the size of the eggs and the type of potato.","To estimate the calorie count of your meal, I'll use approximate values for the given foods. 
+
+For 2 eggs, the average calorie count is around 140 calories, as a large egg typically contains about 70 calories.
+
+For 200g of potato, the calorie count depends on the cooking method. Assuming it's boiled or baked, a 200g serving of potato contains approximately 140-160 calories. Let's use 150 calories as an estimate.
+
+So, the total estimated calorie count for your meal would be around 140 (eggs) + 150 (potato) = 290 calories. 
+
+Please note that this is an approximate value, as exact calorie counts can vary based on specific ingredients, cooking methods, and portion sizes.",,302.5,high
+2026-06-01T14:16:29.382323,How many calories in 100g tuna?,calorie_estimation,"In general, canned tuna in water contains approximately 100-120 calories per 100 grams. If it's packed in oil, the calorie count can be higher, around 200-250 calories per 100 grams. The exact number can vary based on the brand and preparation method, so it's best to check the specific product label for precise information.","The calorie count for 100g of tuna can vary depending on the type (e.g., skipjack, albacore, yellowfin) and whether it's canned in water or oil. However, on average, 100g of canned tuna in water is approximately 120-140 calories, while 100g of fresh tuna might be around 150-170 calories. For a more precise estimate, please specify the type of tuna and any added ingredients.",,210.0,low
+2026-06-01T14:16:29.382671,100g peanut butter,out_of_domain,,,,,blocked
+2026-06-01T14:16:29.382919,100g cucumber,out_of_domain,,,,,blocked
+2026-06-01T14:16:30.778437,200g cooked lentils,calorie_estimation,"Approximately, 200 grams of cooked lentils contain about 230 calories. This estimate can vary slightly based on the specific type of lentils and how they were prepared, but it's a good general guideline. If you have any other foods to estimate or questions about nutrition, feel free to ask!","For 200g of cooked lentils, the calorie estimate is approximately 230-250 calories. This is based on the average nutritional content of cooked lentils, which can vary slightly depending on the cooking method and type of lentils.",,240.0,high
+2026-06-01T14:16:33.059055,100g white rice and 100g black beans,calorie_estimation,"To estimate the calories for 100g of white rice and 100g of black beans:
+
+- **White rice (cooked)**: Approximately 130 calories per 100g.
+- **Black beans (cooked)**: Approximately 130 calories per 100g.
+
+Adding these together:
+
+- **Total calories**: 130 (rice) + 130 (beans) = **260 calories**.
+
+Please note that these values can vary slightly based on the specific type and preparation method of the rice and beans.","To estimate the calorie count of your meal, I'll use approximate values for white rice and black beans. 
+
+A 100g serving of cooked white rice contains around 130-140 calories. 
+A 100g serving of cooked black beans contains around 115-120 calories.
+
+So, the total estimated calorie count for your meal would be approximately 245-260 calories. 
+
+Please note that these values are approximate and can vary based on cooking methods and specific ingredients used. For more accurate information, it's always best to consult a reliable nutrition source or a qualified healthcare professional.",,260.0,high
+2026-06-01T14:16:34.545080,3 eggs,calorie_estimation,"Three large eggs typically contain about 210 calories in total, as one large egg has approximately 70 calories. Keep in mind that this is an estimate and can vary slightly based on the size of the eggs. If you have any other foods or meals you'd like to estimate, feel free to share!","For 3 eggs, the estimated calorie count is approximately 180-200 calories. This assumes large eggs, as the size can affect the calorie content. To give a more precise estimate, I'd need to know the egg size (small, medium, large, or extra-large) and whether they're cooked (e.g., boiled, fried, or scrambled), as cooking methods can also impact calorie count.",,205.0,high
+2026-06-01T14:16:35.995336,100g oats,calorie_estimation,"100 grams of oats typically contains about 389 calories. This value can vary slightly depending on the specific type of oats (e.g., rolled, steel-cut, instant), but 389 calories is a good general estimate. If you have a specific type in mind, let me know!","For 100g of oats, the estimated calorie count is approximately 370-400 calories. This value may vary slightly depending on the type of oats (e.g., rolled, steel-cut, or instant) and any added ingredients. However, for plain oats, 370-400 calories is a reasonable estimate.",,394.5,high
+2026-06-01T14:16:39.237381,150g cooked pasta and 50g tomato sauce,calorie_estimation,"To estimate the calories for your meal of 150g cooked pasta and 50g tomato sauce:
+
+1. **Cooked Pasta**: Approximately 150g of cooked pasta contains about 210 calories (about 140 calories per 100g).
+2. **Tomato Sauce**: Approximately 50g of tomato sauce contains about 25 calories (about 50 calories per 100g).
+
+**Total Estimated Calories**: 
+- Cooked Pasta: 210 calories
+- Tomato Sauce: 25 calories
+
+**Total**: 210 + 25 = **235 calories**
+
+These values can vary based on the specific type of pasta and sauce used, so this is a rough estimate.","To estimate the calorie count of your meal, I'll use approximate values for cooked pasta and tomato sauce.
+
+A 150g serving of cooked pasta is roughly equivalent to 1 cup of cooked pasta. The calorie count for this can range from 150-200 calories, depending on the type of pasta. Let's assume an average value of 175 calories.
+
+For the 50g of tomato sauce, this is approximately 1/4 cup. The calorie count for tomato sauce can vary greatly depending on the ingredients and brand, but a rough estimate is 25-50 calories per 1/4 cup. Let's assume an average value of 37.5 calories.
+
+Adding these together, your meal of 150g cooked pasta and 50g tomato sauce is approximately 212.5 calories. However, please note that this is a rough estimate and actual calorie counts may vary based on specific ingredients and brands used.",,223.75,high
+2026-06-01T14:16:42.298569,100g grilled chicken breast,calorie_estimation,"A 100g serving of grilled chicken breast typically contains about 165 calories. This value can vary slightly based on cooking methods and any added ingredients, but 165 calories is a good estimate for plain grilled chicken breast.","For 100g of grilled chicken breast, the estimated calorie count is approximately 165 calories. This assumes the chicken breast is lean and cooked without added oils. Please note that exact calorie counts can vary depending on factors like cooking methods and specific chicken cuts, but 165 calories is a reasonable estimate for a typical grilled chicken breast.",,165.0,high
+2026-06-01T14:33:05.738019,2 eggs and 100g rice,calorie_estimation,"To estimate the calories for your meal of 2 eggs and 100g of rice:
+
+1. **Eggs**: On average, one large egg contains about 70 calories. So, for 2 eggs:
+   - 2 eggs x 70 calories = **140 calories**
+
+2. **Rice**: Cooked white rice has approximately 130 calories per 100g. So:
+   - 100g rice = **130 calories**
+
+**Total estimated calories**: 
+- 140 (eggs) + 130 (rice) = **270 calories**
+
+Keep in mind that these are approximate values and can vary based on the specific type of eggs and rice used.","To estimate the calorie count of 2 eggs and 100g of rice, let's break it down:
+
+- 2 eggs: Approximately 140 calories (assuming large eggs, with about 70 calories per egg)
+- 100g of rice: This can vary depending on the type of rice, but a common estimate for cooked white rice is around 130 calories per 100g. For brown rice, it might be slightly higher, around 110 calories per 100g of uncooked rice, which becomes around 140 calories when cooked due to water absorption. Let's assume an average of 135 calories for 100g of cooked rice, considering the type of rice is not specified.
+
+Total estimated calorie count: 140 calories (eggs) + 135 calories (rice) = 275 calories.
+
+Please note, this is an approximation. The exact calorie count can vary based on the size of the eggs, the type of rice, and how the rice is cooked.",,172.5,high
+2026-06-01T14:33:08.458888,apple 200g,calorie_estimation,"A 200g apple typically contains about 104 calories. This estimate can vary slightly depending on the specific variety of apple, but it's a good general guideline. If you have any other foods to estimate or questions, feel free to ask!","For a 200g apple, the estimated calorie count is approximately 95-100 calories. This is based on the average calorie density of apples, which is around 0.5 calories per gram. However, please note that the exact calorie count may vary depending on the apple's variety, ripeness, and growing conditions.",,52.25,high
+2026-06-01T14:33:15.047674,100g chicken and 50g rice,calorie_estimation,"To estimate the calories for your meal of 100g of chicken and 50g of rice:
+
+- **Chicken (100g)**: Approximately 165 calories (this can vary based on cooking method and whether the skin is on or off).
+- **Rice (50g, cooked)**: Approximately 65 calories (this can vary based on the type of rice).
+
+**Total estimated calories**: 165 + 65 = **230 calories**.
+
+Please note that these values are approximate and can vary based on specific preparation methods and ingredients used.","To estimate the calorie count of 100g chicken and 50g rice, I'll use approximate values.
+
+100g of chicken typically contains around 165 calories, depending on the cut and cooking method. 
+50g of rice is roughly 1/4 to 1/3 of a standard serving size. Assuming it's white rice, 50g would be approximately 70-80 calories. For brown rice, it would be slightly higher, around 80-90 calories.
+
+So, the total estimated calorie count for 100g chicken and 50g rice would be approximately 235-245 calories for white rice, or 245-255 calories for brown rice. Please note that these are rough estimates and actual calorie counts may vary based on specific ingredients, cooking methods, and added seasonings.",,242.5,high
+2026-06-01T14:33:17.755421,banana 120g,calorie_estimation,A 120g banana typically contains about 105 calories. This is based on an average of approximately 89 calories per 100g of banana. Keep in mind that the exact calorie count can vary slightly depending on the specific variety and ripeness of the banana.,"For a 120g banana, the estimated calorie count is approximately 95-105 calories. This is based on the average calorie density of bananas, which is around 0.89 kcal/g. However, please note that exact calorie counts can vary depending on the ripeness and variety of the banana.",,52.95,high
+2026-06-01T14:33:20.432666,2 boiled eggs,nutrition_qa,"Two boiled eggs typically contain about 140-160 calories in total. This estimate assumes each large boiled egg has around 70-80 calories. Keep in mind that the exact calorie count can vary slightly based on the size of the eggs. If you have any other questions about nutrition or meal planning, feel free to ask!","For 2 boiled eggs, the approximate calorie count is 140 calories. This assumes that the eggs are large and were boiled without any added ingredients. The exact calorie count may vary depending on the size of the eggs. 
+
+In addition to calories, 2 boiled eggs are a good source of protein (about 12 grams) and various vitamins and minerals like vitamin D and choline. 
+
+If you have specific dietary needs or restrictions, I recommend consulting a qualified healthcare professional or registered dietitian for personalized nutrition advice.",,110.0,high
+2026-06-01T14:33:23.251719,100g cooked pasta,calorie_estimation,"Cooked pasta typically contains about 150 calories per 100 grams. Therefore, for 100 grams of cooked pasta, you can estimate approximately 150 calories. 
+
+Keep in mind that the exact calorie count can vary slightly depending on the type of pasta and how it was prepared.","For 100g of cooked pasta, the calorie estimate is approximately 150-160 calories. However, this can vary depending on the type of pasta and any added ingredients. This estimate is based on average values for cooked pasta. If you have a specific type of pasta or any additional details, I can try to provide a more accurate estimate.",,155.0,high
+2026-06-01T14:33:23.252109,100g salmon,out_of_domain,,,,,blocked
+2026-06-01T14:33:23.252399,50g almonds,out_of_domain,,,,,blocked
+2026-06-01T14:33:26.579684,250ml milk,calorie_estimation,"To estimate the calories in 250 ml of milk, it depends on the type of milk:
+
+- Whole milk: approximately 150 calories
+- 2% reduced-fat milk: about 120 calories
+- 1% low-fat milk: around 100 calories
+- Skim milk: roughly 80 calories
+
+If you can specify the type of milk, I can provide a more accurate estimate!","To estimate the calories in 250ml of milk, I'll need to make an assumption about the type of milk. There are several types, including whole, low-fat, and non-fat milk, as well as milk alternatives like almond or soy milk. 
+
+Assuming you're referring to whole cow's milk, a rough estimate is:
+- 250ml of whole milk contains approximately 170-180 calories.
+
+Please note that this is an approximate value and can vary depending on the specific type and brand of milk. If you have more specific information about the milk, I can try to provide a more accurate estimate.",,165.0,low
+2026-06-01T14:33:32.421128,100g yogurt and 30g oats,calorie_estimation,"To estimate the calories for your meal of 100g yogurt and 30g oats:
+
+1. **Yogurt (plain, low-fat)**: Approximately 60 calories per 100g.
+2. **Oats (rolled oats)**: Approximately 117 calories per 30g.
+
+Now, let's add them together:
+
+- Yogurt: 60 calories
+- Oats: 117 calories
+
+**Total estimated calories**: 60 + 117 = **177 calories**.
+
+Please note that the exact calorie count can vary based on the specific type of yogurt (e.g., full-fat, flavored) and oats used.","To estimate the calorie count of 100g yogurt and 30g oats, I'll use approximate values.
+
+A 100g serving of yogurt typically contains around 50-60 calories, depending on the type (low-fat, non-fat, or full-fat). For this calculation, I'll assume an average value of 55 calories.
+
+A 30g serving of oats is roughly 1/4 cup cooked or 2 tablespoons uncooked. The calorie count for oats can vary, but approximately 100g of oats contains 375 calories. So, for 30g, it would be around 112.5 calories.
+
+Adding these together, the estimated total calorie count for 100g yogurt and 30g oats is approximately 167.5 calories (55 from yogurt + 112.5 from oats).
+
+Please note that this is an estimate, as exact calorie counts depend on specific brands and types of yogurt and oats. For precise nutrition information, it's always best to check the packaging or consult a reliable nutrition source.",,144.75,high
+2026-06-01T14:33:35.593712,1 slice of bread and 10g butter,calorie_estimation,"To estimate the calories for 1 slice of bread and 10g of butter:
+
+- **Slice of bread**: Approximately 70-80 calories (varies by type).
+- **Butter (10g)**: About 72 calories.
+
+**Total estimated calories**: 70-80 (bread) + 72 (butter) = **142-152 calories**.
+
+Keep in mind that the exact calorie count can vary based on the specific type of bread used.","To estimate the calories of 1 slice of bread with 10g of butter, let's break it down:
+
+- 1 slice of bread: Approximately 80-100 calories (depending on the type of bread)
+- 10g of butter: Approximately 70-80 calories (since 1 tablespoon or 14g of butter is around 100 calories)
+
+So, the total estimated calorie count would be around 150-180 calories. Please note that this is an approximation, as the exact calorie count depends on the specific type of bread and butter used.",,166.0,high
+2026-06-01T14:33:38.294563,200g potato,calorie_estimation,"A 200g serving of potato typically contains about 150-170 calories, depending on the type of potato and how it's prepared. This estimate assumes the potato is raw and unseasoned. If it's cooked or prepared in a specific way (like fried or mashed), the calorie count could be higher.","For 200g of potato, the estimated calorie count is approximately 140-160 calories. This assumes a medium-sized potato with average moisture content. The exact calorie count may vary depending on the potato's specific type, cooking method, and any added ingredients.",,165.0,high
+2026-06-01T14:33:38.294960,100g avocado,out_of_domain,,,,,blocked
+2026-06-01T14:33:43.281811,150g beef steak,calorie_estimation,"A 150g serving of beef steak typically contains around 300 to 400 calories, depending on the cut and fat content. For example, lean cuts like sirloin are on the lower end, while fattier cuts like ribeye are on the higher end. 
+
+If you have a specific cut in mind, I can provide a more tailored estimate!","For a 150g beef steak, the calorie estimate can vary depending on the cut and cooking method. However, a rough estimate for a cooked beef steak is around 350-400 calories. 
+
+To give a more accurate estimate, I'd need to know the specific cut of beef (e.g., ribeye, sirloin) and how it's cooked (e.g., grilled, pan-fried). Assuming it's a leaner cut cooked with minimal added fat, 375 calories is a reasonable approximation.",,400.0,high
+2026-06-01T14:33:43.282202,100g tofu,out_of_domain,,,,,blocked
+2026-06-01T14:33:43.282443,orange 150g,out_of_domain,,,,,blocked
+2026-06-01T14:33:43.282856,100g carrots,out_of_domain,,,,,blocked
+2026-06-01T14:33:45.803748,100g cheese,calorie_estimation,"The calorie content of cheese can vary significantly depending on the type. However, a general estimate for common cheeses is about 350-400 calories per 100 grams. 
+
+If you have a specific type of cheese in mind (like cheddar, mozzarella, or feta), I can provide a more tailored estimate!","For 100g of cheese, the calorie estimate can vary depending on the type of cheese. However, on average, 100g of cheese can range from approximately 250-400 calories. 
+
+To give a more accurate estimate, I would need to know the specific type of cheese. Different types, such as cheddar, mozzarella, or feta, have different calorie contents. 
+
+If you provide the type of cheese, I can try to give a more precise calorie estimate.",,400.0,high
+2026-06-01T14:33:50.440759,2 eggs and 1 banana,calorie_estimation,"To estimate the calories for 2 eggs and 1 banana:
+
+- **Eggs**: On average, a large egg contains about 70 calories. So, 2 eggs would be approximately 140 calories.
+- **Banana**: A medium banana typically has around 105 calories.
+
+Adding these together:
+- 2 eggs: ~140 calories
+- 1 banana: ~105 calories
+
+**Total estimated calories**: 140 + 105 = **245 calories**.
+
+Keep in mind that the exact calorie count can vary based on the size of the eggs and banana.","To estimate the calorie count of 2 eggs and 1 banana, I'll use approximate values. 
+
+2 large eggs typically contain around 140 calories. 
+1 medium banana contains approximately 105 calories.
+
+So, the total estimated calorie count for 2 eggs and 1 banana is around 245 calories. 
+
+Please note that exact calorie counts can vary depending on the size of the eggs and banana. These values are approximate and based on average sizes.",,245.0,high
+2026-06-01T14:33:54.551188,100g rice and 100g chicken and 50g broccoli,calorie_estimation,"To estimate the calories for your meal of 100g rice, 100g chicken, and 50g broccoli, here are the approximate calorie values:
+
+- **100g of cooked white rice**: about 130 calories
+- **100g of cooked chicken breast**: about 165 calories
+- **50g of cooked broccoli**: about 17 calories
+
+Now, let's add these together:
+
+- Rice: 130 calories
+- Chicken: 165 calories
+- Broccoli: 17 calories
+
+**Total estimated calories**: 130 + 165 + 17 = **312 calories**
+
+Keep in mind that these values can vary based on cooking methods and specific types of rice or chicken used.","To estimate the calorie count of your meal, I'll use approximate values for each food item. 
+
+- 100g of cooked rice is roughly 130-140 calories.
+- 100g of cooked chicken is approximately 165 calories.
+- 50g of broccoli is about 25 calories.
+
+So, the total estimated calorie count for your meal is around 320 calories (130 + 165 + 25). Please note that this is an approximation, as exact calorie counts depend on cooking methods and specific ingredients used.",,168.5,high
+2026-06-01T14:33:58.158669,I ate 2 eggs and 200g potato,calorie_estimation,"To estimate the calories for your meal:
+
+- **Eggs**: On average, one large egg contains about 70 calories. So, for 2 eggs, that's approximately 140 calories.
+  
+- **Potato**: A medium potato (about 150g) has roughly 130 calories. For 200g, you can estimate around 175 calories.
+
+Adding these together:
+- Eggs: 140 calories
+- Potato: 175 calories
+
+**Total estimated calories**: 315 calories.
+
+Please note that these are approximate values and can vary based on the size of the eggs and the type of potato.","To estimate the calorie count of your meal, I'll use approximate values for the foods you mentioned. 
+
+2 eggs are roughly 140 calories, as a large egg typically contains about 70 calories. 
+200g of potato is approximately 140 calories, as a medium-sized potato (150g) has around 110 calories.
+
+So, the total estimated calorie count for your meal would be around 280 calories. 
+
+Please note that this is an estimate, as exact calorie counts can vary depending on cooking methods and specific ingredients used.",,297.5,high
+2026-06-01T14:34:00.408453,How many calories in 100g tuna?,calorie_estimation,"In general, canned tuna in water contains about 100-120 calories per 100 grams. If it's packed in oil, the calorie count can be higher, around 200-250 calories per 100 grams. The exact number can vary based on the brand and preparation method. If you have a specific type of tuna in mind, please let me know!","The calorie count for 100g of tuna can vary depending on the type (e.g., skipjack, albacore, yellowfin) and whether it's canned in water or oil. However, on average, 100g of canned tuna in water is approximately 120-140 calories, while 100g of fresh tuna might be around 150-170 calories. For a more precise estimate, please specify the type of tuna and any added ingredients.",,145.0,low
+2026-06-01T14:34:00.408785,100g peanut butter,out_of_domain,,,,,blocked
+2026-06-01T14:34:00.409004,100g cucumber,out_of_domain,,,,,blocked
+2026-06-01T14:34:03.244392,200g cooked lentils,calorie_estimation,"Cooked lentils typically contain about 116 calories per 100 grams. For 200 grams, you can estimate the calorie content as follows:
+
+116 calories/100g × 2 = 232 calories
+
+So, 200 grams of cooked lentils would be approximately 232 calories.","For 200g of cooked lentils, the approximate calorie count is 230-250 calories. This estimate may vary slightly depending on the cooking method and any added ingredients, but 200g of cooked lentils generally falls within this range.",,241.0,high
+2026-06-01T14:34:07.390422,100g white rice and 100g black beans,calorie_estimation,"To estimate the calories for 100g of white rice and 100g of black beans:
+
+- **White Rice (cooked)**: Approximately 130 calories per 100g.
+- **Black Beans (cooked)**: Approximately 130 calories per 100g.
+
+Adding these together:
+
+- **Total Calories**: 130 (rice) + 130 (beans) = **260 calories**.
+
+This is a rough estimate, as cooking methods and specific varieties can affect the calorie content.","To estimate the calorie count of 100g white rice and 100g black beans, I'll use approximate values.
+
+100g of white rice contains around 130-140 calories.
+100g of black beans contains around 115-120 calories, but this can vary based on whether they're cooked or raw. For this estimate, I'll assume they're cooked.
+
+So, the total calorie count would be approximately 245-260 calories (130-140 for white rice + 115-120 for black beans).
+
+Please note that these values are approximate, as exact calorie counts can depend on specific ingredients, cooking methods, and brands.",,190.0,high
+2026-06-01T14:34:10.263005,3 eggs,calorie_estimation,"Three large eggs typically contain about 210 calories in total, as one large egg has approximately 70 calories. Keep in mind that the calorie count can vary slightly based on the size of the eggs. If you have a different size in mind, let me know!","For 3 eggs, the estimated calorie count is approximately 180-200 calories. This assumes large eggs, as the size can affect the calorie content. To give a more precise estimate, I'd need to know the egg size (small, medium, large, extra-large). However, for large eggs, here's a rough breakdown: 
+- 3 large eggs: about 180-200 calories
+- 3 extra-large eggs: about 210-225 calories
+- 3 medium eggs: about 150-170 calories
+- 3 small eggs: about 120-140 calories
+
+Please note, these are approximate values and can vary based on the egg size and any added ingredients (like oil or butter for cooking).",,147.5,high
+2026-06-01T14:34:12.385262,100g oats,calorie_estimation,"100 grams of oats typically contains about 389 calories. This value can vary slightly depending on the specific type of oats (e.g., rolled, steel-cut, instant), but 389 calories is a good general estimate. If you have a specific type in mind, let me know!","For 100g of oats, the estimated calorie count is approximately 370-400 calories. This value may vary slightly depending on the type of oats (e.g., rolled, steel-cut, or instant).",,394.5,high
+2026-06-01T14:34:20.132082,150g cooked pasta and 50g tomato sauce,calorie_estimation,"To estimate the calories in your meal:
+
+1. **Cooked Pasta (150g)**: Approximately 150g of cooked pasta contains about 210 calories. This can vary slightly depending on the type of pasta (e.g., whole wheat vs. regular).
+
+2. **Tomato Sauce (50g)**: Approximately 50g of tomato sauce typically contains around 30-40 calories, depending on the brand and whether it contains added sugars or oils.
+
+**Total Estimated Calories**: 
+- Cooked Pasta: ~210 calories
+- Tomato Sauce: ~30-40 calories
+
+**Overall Total**: Approximately 240-250 calories.
+
+Please note that these are rough estimates and can vary based on specific brands and preparation methods.","To estimate the calorie count of your meal, I'll use approximate values for cooked pasta and tomato sauce.
+
+A 150g serving of cooked pasta is roughly equivalent to 1 cup of cooked pasta. The calorie count for this can range from 150-200 calories, depending on the type of pasta. Let's assume an average value of 175 calories.
+
+For the 50g of tomato sauce, this is approximately 1/4 cup. The calorie count for tomato sauce can vary greatly depending on the ingredients and brand, but a rough estimate is 25-50 calories per 1/4 cup. Let's assume an average value of 37.5 calories.
+
+Adding these together, your meal of 150g cooked pasta and 50g tomato sauce is approximately 212.5 calories. However, please note that this is a rough estimate and actual calorie counts may vary based on specific ingredients and brands used.",,211.25,high
+2026-06-01T14:34:22.795315,100g grilled chicken breast,calorie_estimation,"A 100g serving of grilled chicken breast typically contains about 165 calories. This value can vary slightly based on cooking methods and any added ingredients, but 165 calories is a good estimate for plain grilled chicken breast.","For 100g of grilled chicken breast, the estimated calorie count is approximately 165 calories. This assumes the chicken breast is lean and cooked without added oils. Please note that exact calorie counts can vary depending on factors like cooking methods and specific chicken cuts, but 165 calories is a reasonable estimate for a typical grilled chicken breast.",,165.0,high
+2026-06-01T15:02:47.214331,2 eggs and 100g rice,calorie_estimation,"To estimate the calories for your meal of 2 eggs and 100g of rice:
+
+1. **Eggs**: On average, one large egg contains about 70 calories. So, 2 eggs would be approximately:
+   - 2 eggs x 70 calories = **140 calories**
+
+2. **Rice**: Cooked white rice has about 130 calories per 100g. Therefore, for 100g of rice:
+   - 100g rice = **130 calories**
+
+**Total estimated calories**: 
+- Eggs: 140 calories
+- Rice: 130 calories
+- **Total = 270 calories**
+
+Keep in mind that these are approximate values and can vary based on the specific type of eggs and rice used.","To estimate the calorie count of 2 eggs and 100g of rice, let's break it down:
+
+- 2 eggs: Approximately 140 calories (assuming large eggs, with about 70 calories per egg)
+- 100g of rice: This can vary depending on the type of rice, but a common estimate for cooked white rice is around 130 calories per 100g. For brown rice, it might be slightly higher, around 110 calories per 100g of uncooked rice, which becomes around 140 calories when cooked. Since the type of rice isn't specified, let's use an average of 135 calories for 100g of cooked rice.
+
+Total estimated calorie count: 140 calories (from eggs) + 135 calories (from rice) = 275 calories.
+
+Please note, this is an approximation. The exact calorie count can vary based on the size of the eggs, the type of rice, and how the rice is cooked.",,272.5,high
+2026-06-01T15:02:52.316498,today summary,meal_memory_command,,,,,system
