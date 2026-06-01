@@ -3,6 +3,7 @@ import streamlit as st
 from main import build_application
 from nutricompare.application.dto.chat_request import ChatRequest
 from nutricompare.application.dto.evaluation_request import EvaluationRequest
+from nutricompare.application.services.judge_confidence_service import JudgeConfidenceService
 
 
 st.set_page_config(
@@ -33,6 +34,7 @@ def main():
     ask_question_use_case = container["ask_question_use_case"]
     compare_answers_use_case = container["compare_answers_use_case"]
     meal_tracking_service = container["meal_tracking_service"]
+    judge_confidence_service = JudgeConfidenceService()
 
     st.title("🥗 NutriCompare AI")
     st.caption("A Multi-LLM Nutrition Assistant with Judge-Based Answer Selection")
@@ -135,10 +137,16 @@ def main():
 
         evaluation = evaluation_response.result
 
+        judge_confidence = judge_confidence_service.calculate(
+            winner=evaluation.winner,
+            model_a_score=evaluation.model_a_score,
+            model_b_score=evaluation.model_b_score,
+        )
+
         st.divider()
         st.subheader("Judge Evaluation")
 
-        metric_col_1, metric_col_2, metric_col_3 = st.columns(3)
+        metric_col_1, metric_col_2, metric_col_3, metric_col_4 = st.columns(4)
 
         with metric_col_1:
             st.metric("Winner", evaluation.winner)
@@ -148,6 +156,9 @@ def main():
 
         with metric_col_3:
             st.metric("Model B Score", evaluation.model_b_score)
+
+        with metric_col_4:
+            st.metric("Confidence", judge_confidence.upper())
 
         st.info(evaluation.explanation)
 

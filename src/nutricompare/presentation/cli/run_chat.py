@@ -1,6 +1,7 @@
 from main import build_application
 from nutricompare.application.dto.chat_request import ChatRequest
 from nutricompare.application.dto.evaluation_request import EvaluationRequest
+from nutricompare.application.services.judge_confidence_service import JudgeConfidenceService
 
 
 def main():
@@ -8,6 +9,7 @@ def main():
 
     ask_question_use_case = container["ask_question_use_case"]
     compare_answers_use_case = container["compare_answers_use_case"]
+    judge_confidence_service = JudgeConfidenceService()
 
     print("NutriCompare AI CLI")
     print("Nutrition-only Multi-LLM Assistant")
@@ -60,10 +62,24 @@ def main():
         evaluation = evaluation_response.result
 
         print("\n================ JUDGE EVALUATION ================")
+        judge_confidence = judge_confidence_service.calculate(
+            winner=evaluation.winner,
+            model_a_score=evaluation.model_a_score,
+            model_b_score=evaluation.model_b_score,
+        )
+
         print(f"Winner: {evaluation.winner}")
         print(f"Model A Score: {evaluation.model_a_score}")
         print(f"Model B Score: {evaluation.model_b_score}")
-        print(f"Explanation: {evaluation.explanation}")
+        print(f"Judge Confidence: {judge_confidence}")
+
+        print("\n--- Scorecard ---")
+        print(f"Correctness | A: {evaluation.model_a_correctness} | B: {evaluation.model_b_correctness}")
+        print(f"Safety      | A: {evaluation.model_a_safety} | B: {evaluation.model_b_safety}")
+        print(f"Clarity     | A: {evaluation.model_a_clarity} | B: {evaluation.model_b_clarity}")
+        print(f"Completeness| A: {evaluation.model_a_completeness} | B: {evaluation.model_b_completeness}")
+
+        print(f"\nExplanation: {evaluation.explanation}")
 
         print("\n================ FINAL SELECTED ANSWER ================")
 

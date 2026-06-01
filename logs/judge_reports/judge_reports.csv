@@ -1,0 +1,2 @@
+created_at,question,model_a,model_a_score,model_b,model_b_score,winner,confidence,judge_reasoning
+2026-06-01T15:44:45,What are good sources of protein?,OpenAI GPT-4o-mini,9.25,Groq Llama-3.3-70B,8.6,OpenAI GPT-4o-mini,91.5,"Model A was more complete, more specific, and still safe. It included both animal and plant-based protein sources."
