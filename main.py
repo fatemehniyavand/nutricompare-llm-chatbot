@@ -1,9 +1,16 @@
 from nutricompare.application.services.chat_service import ChatService
+from nutricompare.application.services.csv_logger import CSVLogger
 from nutricompare.application.services.evaluation_service import (
     EvaluationService,
 )
 from nutricompare.application.services.input_guard_service import (
     InputGuardService,
+)
+from nutricompare.application.services.meal_command_handler import (
+    MealCommandHandler,
+)
+from nutricompare.application.services.meal_tracking_service import (
+    MealTrackingService,
 )
 from nutricompare.application.use_cases.ask_nutrition_question import (
     AskNutritionQuestionUseCase,
@@ -39,12 +46,20 @@ def build_application():
     app_logger.info("Creating services...")
 
     input_guard_service = InputGuardService()
+    meal_tracking_service = MealTrackingService()
+    meal_command_handler = MealCommandHandler(
+        meal_tracking_service=meal_tracking_service,
+    )
+    csv_logger = CSVLogger()
 
     chat_service = ChatService(
         model_a_client=model_a_client,
         model_b_client=model_b_client,
         settings=settings,
         input_guard_service=input_guard_service,
+        meal_tracking_service=meal_tracking_service,
+        meal_command_handler=meal_command_handler,
+        csv_logger=csv_logger,
     )
 
     evaluation_service = EvaluationService(
@@ -75,6 +90,9 @@ def build_application():
         "compare_answers_use_case": compare_answers_use_case,
         "batch_evaluation_use_case": batch_evaluation_use_case,
         "input_guard_service": input_guard_service,
+        "meal_tracking_service": meal_tracking_service,
+        "meal_command_handler": meal_command_handler,
+        "csv_logger": csv_logger,
     }
 
 
