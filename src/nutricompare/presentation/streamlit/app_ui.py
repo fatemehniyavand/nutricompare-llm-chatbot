@@ -67,8 +67,23 @@ def main():
         if "today_summary" in st.session_state:
             st.text(st.session_state["today_summary"])
 
+    st.subheader("Try an example")
+
+    example = st.selectbox(
+        "Choose a sample nutrition question",
+        [
+            "",
+            "2 eggs and 100g rice",
+            "How many calories are in 100g chicken breast?",
+            "What are good sources of protein?",
+            "Give me a safe weight-loss meal idea",
+            "I want to eat only 300 calories per day",
+        ],
+    )
+
     user_question = st.text_area(
         "Ask a nutrition question",
+        value=example,
         placeholder="Example: 2 eggs and 100g rice",
         height=120,
     )
