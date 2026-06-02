@@ -1,6 +1,7 @@
 from nutricompare.application.interfaces.llm_client import LLMClient
 from nutricompare.infrastructure.config.settings import Settings
 from nutricompare.infrastructure.llm.openai_compatible_client import OpenAICompatibleClient
+from nutricompare.infrastructure.llm.gemini_client import GeminiClient
 
 
 class LLMFactory:
@@ -74,7 +75,15 @@ class LLMFactory:
                 base_url=base_url,
             )
 
+        if normalized_provider == "gemini":
+            return GeminiClient(
+                provider=normalized_provider,
+                model_name=model_name,
+                api_key=api_key,
+                base_url=base_url,
+            )
+
         raise ValueError(
             f"Unsupported LLM provider: {provider}. "
-            f"Supported providers: {sorted(self.SUPPORTED_OPENAI_COMPATIBLE_PROVIDERS)}"
+            f"Supported providers: {sorted(self.SUPPORTED_OPENAI_COMPATIBLE_PROVIDERS | {'gemini'})}"
         )
