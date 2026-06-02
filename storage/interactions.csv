@@ -1341,3 +1341,766 @@ If you are struggling with thoughts about restricting food, or have concerns abo
 2026-06-02T13:05:06.407894,Best programming language,out_of_domain,,,,,blocked
 2026-06-02T13:05:07.548915,How does Bitcoin work?,out_of_domain,,,,,blocked
 2026-06-02T13:05:08.813687,Translate this sentence to Italian,out_of_domain,,,,,blocked
+2026-06-02T15:43:44.303307,PYTHONPATH=src:. python -m streamlit run src/nutricompare/presentation/streamlit/app_ui.py,out_of_domain,,,,,blocked
+2026-06-02T15:44:44.910150,2 eggs and 100g rice,calorie_estimation,"Let's estimate the calories for your meal of 2 eggs and 100 grams of rice.
+
+1. **Eggs**: 
+   - On average, one large egg has about 70 calories.
+   - For 2 eggs: 2 x 70 = **140 calories**.
+
+2. **Rice**: 
+   - Cooked white rice has about 130 calories per 100 grams.
+   - For 100 grams: **130 calories**.
+
+Now, let's add them together:
+
+- **Total Calories**: 140 (eggs) + 130 (rice) = **270 calories**.
+
+So, your meal of 2 eggs and 100 grams of rice is approximately **270 calories**. Keep in mind that actual values can vary based on the size of the eggs and the type of rice.","To estimate the calories, I'll break down the foods you've listed:
+
+* 2 eggs: 
+  - A large egg typically has around 70 calories. 
+  - So, 2 eggs would be approximately 140 calories.
+* 100g of rice: 
+  - Cooked white rice has about 130-140 calories per 100g. 
+  - For simplicity, let's assume an average of 135 calories for 100g of cooked rice.
+
+Total estimated calories: 
+- 2 eggs: 140 calories
+- 100g rice: 135 calories
+- Total: 275 calories
+
+Please note, the exact calorie count can vary depending on the size of the eggs and the type of rice (white, brown, etc.). These estimates are based on average values for large eggs and cooked white rice.",,170.0,high
+2026-06-02T15:45:40.955423,I want to eat only 300 calories per day,unsafe,,,,,blocked
+2026-06-02T15:45:54.373843,Give me a safe weight-loss meal idea,nutrition_qa,"For a safe weight-loss meal, it's important to focus on balanced nutrition rather than extreme restriction. Here’s a simple and nutritious meal idea:
+
+**Grilled Chicken Salad:**
+
+- **Grilled Chicken Breast (4 oz)**: About 165 calories
+- **Mixed Greens (2 cups)**: About 10 calories
+- **Cherry Tomatoes (1/2 cup)**: About 15 calories
+- **Cucumber (1/2 medium)**: About 8 calories
+- **Olive Oil (1 tablespoon)**: About 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: About 14 calories
+
+**Total Estimate: 332 calories**
+
+**Assumptions:**
+- The chicken is skinless and grilled without added fats.
+- The salad is made with fresh vegetables and a light dressing.
+
+This meal is rich in protein and fiber, which can help keep you full. Remember, it's always best to consult with a nutritionist or healthcare provider for personalized advice, especially if you have specific health concerns or dietary needs.","For a safe weight-loss meal idea, consider a balanced and nutritious approach. Here's a suggestion:
+
+Grilled chicken breast with roasted vegetables and quinoa. 
+
+This meal provides a good mix of protein, healthy fats, and complex carbohydrates. 
+
+To estimate the calories, let's break it down:
+- 3 oz grilled chicken breast: approximately 110-120 calories
+- 1 cup mixed roasted vegetables (like broccoli, carrots, and bell peppers): approximately 50-60 calories
+- 1/2 cup cooked quinoa: approximately 100-110 calories
+
+Total estimated calories: approximately 260-290 calories
+
+Please note that these values can vary based on specific ingredients, cooking methods, and portion sizes. It's also important to stay hydrated and listen to your body's nutritional needs.
+
+For a personalized meal plan or weight-loss advice, consider consulting a registered dietitian or a healthcare professional. They can help you create a tailored plan that suits your needs and promotes a healthy lifestyle.",,311.0,low
+2026-06-02T15:45:54.992782,Give me a safe weight-loss meal idea,nutrition_qa,"For a safe weight-loss meal idea, consider a balanced plate that includes lean protein, vegetables, and whole grains. Here’s a simple meal suggestion:
+
+**Grilled Chicken Salad:**
+- **Grilled Chicken Breast (4 oz)**: Approximately 165 calories
+- **Mixed Greens (2 cups)**: About 10 calories
+- **Cherry Tomatoes (1/2 cup)**: Roughly 15 calories
+- **Cucumber (1/2 medium)**: About 8 calories
+- **Olive Oil (1 tablespoon)**: Approximately 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: About 14 calories
+
+**Total Estimated Calories**: 332 calories
+
+This meal is rich in protein and fiber, which can help you feel full. Remember, portion sizes and specific ingredients can change the calorie count, so these are rough estimates. Always listen to your body's hunger cues and consider consulting a nutrition professional for personalized advice.","For a safe weight-loss meal idea, consider a balanced plate with protein, healthy fats, and complex carbohydrates. Here's a suggestion:
+
+Grilled chicken breast (about 4 ounces) with roasted vegetables (such as broccoli, carrots, and bell peppers) and a small side of quinoa or brown rice.
+
+This meal provides:
+
+- Protein from the chicken breast to help build and repair muscles
+- Fiber and vitamins from the roasted vegetables
+- Complex carbohydrates from the quinoa or brown rice for sustained energy
+
+Remember to stay hydrated by drinking plenty of water throughout the day. It's also important to consult with a healthcare professional or a registered dietitian for a personalized weight-loss plan that suits your needs and promotes overall health.
+
+If you'd like, you can provide specific food items and quantities, and I can help estimate the calorie count for you.",,332.0,low
+2026-06-02T16:07:52.925907,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: About 31 grams (which contributes to most of the calories)
+- Fat: About 3.6 grams
+- Carbohydrates: 0 grams
+
+This estimate can vary slightly based on cooking methods and whether the chicken is seasoned or marinated. But generally, 165 calories is a good average for plain cooked chicken breast.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, very little fat (around 3-4 grams), and no significant amount of carbohydrates.
+
+Given these values, the estimated calorie count can be broken down as follows:
+- Protein: 31g * 4 calories/g = 124 calories
+- Fat: 3.5g * 9 calories/g = 31.5 calories
+- Carbohydrates: negligible
+
+Total estimated calories: 124 + 31.5 = 155.5 calories
+
+So, approximately 155-160 calories are in 100g of cooked chicken breast. Please note that exact values can vary slightly based on the cooking method, breed of chicken, and other factors.",,160.25,low
+2026-06-02T16:08:12.300116,Give me a safe weight-loss meal idea,nutrition_qa,"I can help you with a nutritious meal idea that can support a healthy lifestyle! Here’s a simple and balanced meal you might enjoy:
+
+**Grilled Chicken Salad:**
+
+- **Grilled Chicken Breast (4 oz)**: Approximately 165 calories
+- **Mixed Greens (2 cups)**: Approximately 10 calories
+- **Cherry Tomatoes (1/2 cup)**: Approximately 15 calories
+- **Cucumber (1/2 medium)**: Approximately 8 calories
+- **Olive Oil (1 tablespoon for dressing)**: Approximately 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: Approximately 14 calories
+
+**Total Estimated Calories: 332 calories**
+
+**Assumptions:**
+- The chicken is skinless and grilled without added fats.
+- The salad is made with fresh vegetables.
+- The olive oil is used as a dressing, which adds healthy fats.
+
+This meal is rich in protein and fiber, which can help you feel full and satisfied. Remember, it’s important to pair meals with a variety of foods and maintain a balanced diet. If you have specific dietary needs or goals, consider consulting a nutrition professional for personalized advice.","For a safe weight-loss meal idea, consider a balanced plate with protein, healthy fats, and complex carbohydrates. Here's a suggestion:
+
+Grilled chicken breast (about 4 oz or 115g) with roasted vegetables like broccoli, carrots, and bell peppers, along with a small serving of quinoa (about 1/2 cup or 100g) and a drizzle of olive oil.
+
+This meal provides a good mix of nutrients and can help keep you full. However, please note that portion sizes and individual calorie needs may vary.
+
+To give you a rough estimate, here's a breakdown:
+- 4 oz grilled chicken breast: approximately 120-140 calories
+- 1 cup mixed roasted vegetables: approximately 50-60 calories
+- 1/2 cup cooked quinoa: approximately 100-110 calories
+- 1 tsp olive oil: approximately 40 calories
+
+Total estimated calories: approximately 310-360 calories
+
+Keep in mind that this is a rough estimate, and actual calorie counts may vary based on specific ingredients and cooking methods. It's always a good idea to consult with a healthcare professional or a registered dietitian for personalized nutrition advice.",,346.0,low
+2026-06-02T16:18:38.688228,2 eggs and 100g rice,calorie_estimation,"Let's estimate the calories for your meal of 2 eggs and 100 grams of rice.
+
+1. **Eggs**: 
+   - One large egg has about 70 calories.
+   - For 2 eggs: 2 x 70 = **140 calories**.
+
+2. **Rice**: 
+   - Cooked white rice has about 130 calories per 100 grams.
+   - For 100 grams of rice: **130 calories**.
+
+Now, let's add them together:
+
+- Eggs: 140 calories
+- Rice: 130 calories
+
+**Total estimate**: 140 + 130 = **270 calories**.
+
+Keep in mind that these values can vary based on the size of the eggs and the type of rice used. This is a general estimate to help you!","To estimate the calories of 2 eggs and 100g of rice, let's break it down:
+
+- 2 eggs: 
+  - A large egg typically has about 70 calories. 
+  - So, 2 eggs would be approximately 2 * 70 = 140 calories.
+
+- 100g of rice: 
+  - Cooked white rice has about 130-140 calories per 100g serving. 
+  - For simplicity, let's use 135 calories as an average.
+
+Total estimated calories: 
+- 2 eggs: 140 calories
+- 100g rice: 135 calories
+- Total: 140 + 135 = 275 calories
+
+Please note, the exact calorie count can vary depending on the size of the eggs and the type of rice (white, brown, etc.). These estimates are based on average values for large eggs and cooked white rice.",,205.0,high
+2026-06-02T16:20:02.618939,What are good sources of protein?,nutrition_qa,"Good sources of protein include:
+
+1. **Meat**: Chicken, turkey, beef, and pork are all high in protein.
+2. **Fish**: Salmon, tuna, and other fish are great options.
+3. **Eggs**: Whole eggs are a complete protein source.
+4. **Dairy**: Milk, yogurt, and cheese provide protein as well.
+5. **Legumes**: Beans, lentils, and chickpeas are excellent plant-based protein sources.
+6. **Nuts and Seeds**: Almonds, peanuts, chia seeds, and flaxseeds contain protein too.
+7. **Tofu and Tempeh**: These soy products are good plant-based protein options.
+
+Including a variety of these foods in your diet can help you meet your protein needs. If you have specific dietary restrictions or goals, consider consulting a nutrition professional for personalized advice.","There are many good sources of protein to choose from. Here are some examples:
+
+1. **Animal-based sources**: chicken, beef, fish, eggs, dairy products like milk, cheese, and yogurt.
+2. **Plant-based sources**: beans (like black beans, chickpeas, and kidney beans), lentils, tofu, tempeh, nuts, and seeds (like almonds, chia seeds, and hemp seeds).
+3. **Legumes**: peas, soybeans, and peanuts.
+4. **Whole grains**: quinoa, farro, and bulgur.
+5. **Meat alternatives**: seitan, veggie burgers, and protein-fortified plant-based milk.
+
+It's essential to vary your protein sources to ensure you're getting all the essential amino acids your body needs. If you have specific dietary restrictions or preferences, it's always a good idea to consult with a healthcare professional or a registered dietitian for personalized advice.",,,low
+2026-06-02T16:20:18.448322,Give me a safe weight-loss meal idea,nutrition_qa,"For a safe weight-loss meal, consider a balanced plate that includes lean protein, whole grains, and plenty of vegetables. Here’s a simple meal idea:
+
+**Grilled Chicken Salad:**
+- **Grilled Chicken Breast (4 oz)**: About 165 calories
+- **Mixed Greens (2 cups)**: About 10 calories
+- **Cherry Tomatoes (1/2 cup)**: About 15 calories
+- **Cucumber (1/2 medium)**: About 8 calories
+- **Olive Oil (1 tablespoon)**: About 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: About 14 calories
+
+**Total Estimated Calories**: 332 calories
+
+**Assumptions**:
+- The chicken is grilled without added fats.
+- The salad dressing is a simple olive oil and vinegar mix.
+
+This meal is nutritious, filling, and can help with weight management when combined with a balanced diet and regular physical activity. Always consider personal preferences and dietary needs, and consult a professional for tailored advice.","For a safe weight-loss meal idea, consider a balanced dish that includes protein, healthy fats, and complex carbohydrates. Here's a suggestion:
+
+Grilled chicken breast with roasted vegetables and quinoa. 
+
+- 3 oz grilled chicken breast (approx. 110-120 calories)
+- 1 cup mixed roasted vegetables (such as broccoli, carrots, and bell peppers) (approx. 50-60 calories)
+- 1/2 cup cooked quinoa (approx. 100-110 calories)
+
+Total estimated calories: approximately 260-290 calories
+
+This meal provides a good balance of nutrients and is relatively low in calories. However, please note that calorie needs can vary depending on individual factors such as age, sex, weight, and activity level. 
+
+It's always a good idea to consult with a healthcare professional or a registered dietitian for personalized nutrition advice, especially if you have specific dietary needs or concerns. They can help you create a tailored meal plan that suits your needs and promotes healthy weight loss.",,311.0,low
+2026-06-02T16:23:27.330350,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: About 31 grams (which contributes to most of the calories)
+- Fat: About 3.6 grams
+- Carbohydrates: 0 grams
+
+So, the total estimate for 100 grams of chicken breast is around 165 calories. Keep in mind that cooking methods and any added ingredients can change the calorie count slightly.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, which provides approximately 124-140 calories (since 1 gram of protein is about 4 calories).
+- It also contains a small amount of fat, roughly 3-4 grams, which adds around 27-36 calories (since 1 gram of fat is about 9 calories).
+
+Given these values, the total calorie estimate for 100g of cooked chicken breast would be approximately 151-176 calories. Please note that this is an estimate, as exact calorie content can vary depending on the specific cut of chicken, cooking method, and other factors.",,170.5,low
+2026-06-02T16:23:58.585071,Give me a safe weight-loss meal idea,nutrition_qa,"I can't provide specific meal plans for weight loss, but I can suggest a balanced meal idea that is generally healthy and can support a nutritious diet. 
+
+**Meal Idea: Grilled Chicken Salad**
+
+**Ingredients:**
+- 4 oz grilled chicken breast (about 165 calories)
+- 2 cups mixed greens (about 10 calories)
+- ½ cup cherry tomatoes (about 15 calories)
+- ¼ avocado (about 80 calories)
+- 1 tablespoon olive oil (about 120 calories)
+- 1 tablespoon balsamic vinegar (about 14 calories)
+
+**Estimated Total Calories:**
+- Grilled Chicken: 165 calories
+- Mixed Greens: 10 calories
+- Cherry Tomatoes: 15 calories
+- Avocado: 80 calories
+- Olive Oil: 120 calories
+- Balsamic Vinegar: 14 calories
+
+**Total: Approximately 404 calories**
+
+This meal is rich in protein, healthy fats, and fiber, which can help you feel full and satisfied. Remember, it's important to listen to your body and eat in a way that feels good for you. If you're considering changes to your diet, it might be helpful to consult with a nutrition professional.","For a safe weight-loss meal idea, consider a balanced plate with a variety of foods. Here's a suggestion:
+
+**Grilled Chicken Breast with Roasted Vegetables and Quinoa**
+
+* 4 oz grilled chicken breast (approx. 120-140 calories)
+* 1 cup mixed roasted vegetables (such as broccoli, carrots, and bell peppers) (approx. 50-60 calories)
+* 1/2 cup cooked quinoa (approx. 100-110 calories)
+
+Total estimated calories: approximately 270-310 calories
+
+This meal provides a good balance of protein, healthy fats, and complex carbohydrates. However, please note that calorie needs can vary depending on individual factors such as age, sex, weight, and activity level.
+
+To make this meal more filling, you can add some healthy fats like avocado or nuts. Also, be sure to drink plenty of water throughout the day to stay hydrated.
+
+Remember, a safe and sustainable weight loss goal is 1-2 pounds per week. It's always best to consult with a healthcare professional or a registered dietitian for personalized nutrition advice.",,237.5,low
+2026-06-02T16:32:09.682533,2 eggs and 100g rice,calorie_estimation,"Let's estimate the calories for your meal of 2 eggs and 100 grams of rice.
+
+1. **Eggs**: 
+   - One large egg has about 70 calories.
+   - For 2 eggs: 2 x 70 = **140 calories**.
+
+2. **Rice**: 
+   - Cooked white rice has about 130 calories per 100 grams.
+   - For 100 grams of rice: **130 calories**.
+
+Now, let's add them together:
+
+- **Total calories** = 140 (eggs) + 130 (rice) = **270 calories**.
+
+So, your meal of 2 eggs and 100 grams of rice is approximately **270 calories**. Keep in mind that the exact calorie count can vary based on the size of the eggs and the type of rice used.","To estimate the calories, I'll break down the foods you've listed:
+
+- 2 eggs: 
+  - A large egg typically has around 70 calories. 
+  - So, 2 eggs would be approximately 2 * 70 = 140 calories.
+
+- 100g of rice: 
+  - Cooked white rice has about 130-140 calories per 100g. 
+  - For simplicity, let's assume an average of 135 calories per 100g.
+  - So, 100g of cooked rice would be approximately 135 calories.
+
+Total estimated calories: 140 (from eggs) + 135 (from rice) = 275 calories.
+
+Please note, the exact calorie count can vary depending on the size of the eggs and the type of rice (white, brown, etc.). These estimates are based on average values for large eggs and cooked white rice.",,272.5,high
+2026-06-02T16:55:42.487823,Give me a safe weight-loss meal idea,nutrition_qa,"I can’t provide specific meal plans for weight loss, but I can suggest a balanced meal idea that is generally healthy and can support a nutritious diet.
+
+**Meal Idea: Grilled Chicken Salad**
+
+**Ingredients:**
+- 4 oz grilled chicken breast (about 165 calories)
+- 2 cups mixed greens (about 10 calories)
+- ½ cup cherry tomatoes (about 15 calories)
+- ¼ avocado (about 80 calories)
+- 2 tablespoons balsamic vinaigrette (about 80 calories)
+
+**Total Estimated Calories:**
+- Grilled Chicken: 165 calories
+- Mixed Greens: 10 calories
+- Cherry Tomatoes: 15 calories
+- Avocado: 80 calories
+- Balsamic Vinaigrette: 80 calories
+
+**Final Total: Approximately 350 calories**
+
+This meal is high in protein from the chicken, includes healthy fats from the avocado, and is packed with vitamins from the vegetables. Remember, portion sizes and specific ingredients can change the calorie count, so adjust as needed based on your preferences.
+
+For personalized advice, especially if you have specific health goals or concerns, consider consulting a registered dietitian or nutritionist.","For a safe weight-loss meal idea, consider a balanced plate with a variety of foods. Here's a suggestion:
+
+Grilled chicken breast (about 4 ounces) with roasted vegetables (such as broccoli, carrots, and bell peppers) and a small side of quinoa or brown rice.
+
+This meal provides a good mix of protein, healthy fats, and complex carbohydrates. The approximate calorie breakdown could be:
+
+- 4 oz grilled chicken breast: 120-140 calories
+- 1 cup roasted vegetables: 50-60 calories
+- 1/2 cup cooked quinoa or brown rice: 100-110 calories
+
+Total estimated calories: 270-310 calories
+
+Please note that this is an approximate calculation, as exact calorie values can vary based on specific ingredients and cooking methods. It's also important to stay hydrated by drinking plenty of water throughout the day.
+
+Remember, a safe and sustainable weight-loss goal is 1-2 pounds per week. It's always a good idea to consult with a healthcare professional or a registered dietitian for personalized nutrition advice. They can help you create a tailored meal plan that suits your needs and promotes overall health and well-being.",,237.5,low
+2026-06-02T16:55:55.637535,Give me a safe weight-loss meal idea,nutrition_qa,"For a safe weight-loss meal, consider a balanced plate that includes lean protein, whole grains, and plenty of vegetables. Here’s a simple idea:
+
+**Grilled Chicken Salad:**
+- **Grilled Chicken Breast (4 oz)**: About 165 calories
+- **Mixed Greens (2 cups)**: About 10 calories
+- **Cherry Tomatoes (1/2 cup)**: About 15 calories
+- **Cucumber (1/2 cup)**: About 8 calories
+- **Olive Oil (1 tablespoon)**: About 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: About 14 calories
+
+**Total Estimate:** Approximately 332 calories
+
+**Assumptions:**
+- The chicken is skinless and grilled without added fats.
+- The salad is made with fresh vegetables.
+- The olive oil is used for dressing, which is a healthy fat.
+
+This meal is nutritious, filling, and can support weight loss when combined with a balanced diet and regular physical activity. Always consider portion sizes and listen to your body's hunger cues. If you have specific dietary needs or concerns, consulting a nutritionist or healthcare professional is a good idea.","For a safe weight-loss meal idea, consider a balanced plate with protein, healthy fats, and complex carbohydrates. Here's a suggestion:
+
+Grilled chicken breast (4 oz) with roasted vegetables (such as broccoli, carrots, and bell peppers) and a small side of quinoa.
+
+This meal provides:
+
+- Protein from the chicken breast to help build and repair muscles
+- Fiber and vitamins from the roasted vegetables
+- Complex carbohydrates from the quinoa for sustained energy
+
+Remember to stay hydrated by drinking plenty of water throughout the day. It's also important to consult with a healthcare professional or a registered dietitian for a personalized weight-loss plan.
+
+If you'd like, I can help estimate the calorie count of this meal or provide variations based on your dietary preferences. Just let me know!",,332.0,low
+2026-06-02T16:57:12.518796,Give me a safe weight-loss meal idea,nutrition_qa,"I can help you with a nutritious meal idea that can support a healthy lifestyle! Here’s a simple and balanced meal you might enjoy:
+
+**Grilled Chicken Salad:**
+
+- **Grilled Chicken Breast (4 oz)**: About 165 calories
+- **Mixed Greens (2 cups)**: About 10 calories
+- **Cherry Tomatoes (1/2 cup)**: About 15 calories
+- **Cucumber (1/2 medium)**: About 8 calories
+- **Olive Oil (1 tablespoon)**: About 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: About 14 calories
+
+**Total Estimated Calories: 332 calories**
+
+### Breakdown:
+- **Protein**: The grilled chicken provides lean protein, which is important for muscle maintenance.
+- **Vegetables**: The mixed greens, tomatoes, and cucumber add fiber and essential vitamins with very few calories.
+- **Healthy Fats**: Olive oil adds healthy fats, which can help keep you satisfied.
+
+This meal is balanced and can be part of a healthy eating pattern. Remember, it's important to listen to your body and eat in a way that feels good for you. If you have specific dietary needs or goals, consider consulting a nutrition professional for personalized advice.","For a safe weight-loss meal idea, consider a balanced and nutritious approach. Here's a suggestion:
+
+Grilled chicken breast with roasted vegetables and quinoa. 
+
+This meal provides a good mix of protein, healthy fats, and complex carbohydrates. 
+
+To estimate the calories, let's break it down:
+- 3 oz grilled chicken breast: approximately 110-120 calories
+- 1 cup mixed roasted vegetables (like broccoli, carrots, and bell peppers): approximately 50-60 calories
+- 1/2 cup cooked quinoa: approximately 100-110 calories
+
+Total estimated calories: approximately 260-290 calories
+
+Please note that these values can vary based on specific ingredients, cooking methods, and portion sizes. It's also important to stay hydrated and listen to your body's nutritional needs.
+
+For a personalized meal plan or weight-loss advice, I recommend consulting a registered dietitian or a healthcare professional. They can provide you with tailored guidance and support to help you achieve your goals safely and effectively.",,311.0,low
+2026-06-02T16:59:50.459076,سلام,out_of_domain,,,,,blocked
+2026-06-02T16:59:59.558365,سبی,out_of_domain,,,,,blocked
+2026-06-02T17:00:07.545601,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: About 31 grams (which contributes to most of the calories)
+- Fat: About 3.6 grams
+- Carbohydrates: 0 grams
+
+So, the total estimate for 100 grams of chicken breast is around 165 calories. Keep in mind that cooking methods and any added ingredients (like oil or sauces) can change the calorie count.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, which provides around 124-140 calories (assuming 4 calories per gram of protein).
+- It also contains about 3-4 grams of fat, which provides around 27-36 calories (assuming 9 calories per gram of fat).
+- The carbohydrate content is relatively low, around 0 grams, so it contributes negligible calories.
+
+Given these values, the total estimated calorie count for 100g of cooked chicken breast is approximately 151-176 calories. Please note that this is an estimate and actual calorie content may vary depending on factors like cooking method, added ingredients, and specific cut of chicken.",,170.5,low
+2026-06-02T17:00:13.574294,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: About 31 grams (which contributes to most of the calories)
+- Fat: About 3.6 grams
+- Carbohydrates: 0 grams
+
+This estimate can vary slightly based on cooking methods and whether the chicken is seasoned or marinated. But generally, you can expect around 165 calories for that amount.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains approximately 31g of protein, 3.6g of fat, and 0g of carbohydrates.
+
+Using average values for the calories in protein, fat, and carbohydrates:
+- Protein: 31g * 4 calories/g = 124 calories
+- Fat: 3.6g * 9 calories/g = 32.4 calories
+- Carbohydrates: 0g * 4 calories/g = 0 calories
+
+Total estimated calories: 124 + 32.4 + 0 = 156.4 calories
+
+So, approximately 156-160 calories are in 100g of cooked chicken breast. Please note that this is an estimate, as exact values can vary depending on the cooking method, chicken breed, and other factors.",,160.7,low
+2026-06-02T17:00:36.950093,2 eggs and 100g rice,calorie_estimation,"Let's estimate the calories for your meal of 2 eggs and 100g of rice.
+
+1. **Eggs**: 
+   - On average, one large egg has about 70 calories. 
+   - So, for 2 eggs: 2 x 70 = **140 calories**.
+
+2. **Rice**: 
+   - Cooked white rice has about 130 calories per 100g.
+   - So, for 100g of rice: **130 calories**.
+
+Now, let's add them together:
+
+- Eggs: 140 calories
+- Rice: 130 calories
+
+**Total estimate**: 140 + 130 = **270 calories**.
+
+This is a rough estimate, and actual values can vary based on the size of the eggs and the type of rice. If you have any more questions or need further assistance, feel free to ask!","To estimate the calories, let's break down the foods:
+
+- 2 eggs: 
+  - A large egg typically has about 70 calories. 
+  - So, 2 eggs would be approximately 2 * 70 = 140 calories.
+
+- 100g of rice: 
+  - Cooked white rice has about 130-140 calories per 100g. 
+  - For simplicity, let's use 135 calories as an average.
+
+Total estimated calories: 
+- 2 eggs: 140 calories
+- 100g rice: 135 calories
+- Total: 140 + 135 = 275 calories
+
+Please note, the exact calorie count can vary depending on the size of the eggs and the type of rice. These estimates are based on average values for large eggs and cooked white rice.",,205.0,high
+2026-06-02T17:00:44.341826,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: About 31 grams (which contributes to most of the calories)
+- Fat: About 3.6 grams
+- Carbohydrates: 0 grams
+
+Keep in mind that the calorie count can vary slightly based on cooking methods and whether the chicken is seasoned or marinated. But generally, 165 calories is a good estimate for plain cooked chicken breast.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, which provides approximately 124-140 calories (since 1 gram of protein is about 4 calories).
+- It also contains a small amount of fat, roughly 3-4 grams, which adds around 27-36 calories (since 1 gram of fat is about 9 calories).
+
+Given these values, the total calorie estimate for 100g of cooked chicken breast would be approximately 151-176 calories. Please note that this is an estimate, as exact calorie content can vary depending on the specific cut, cooking method, and other factors.",,170.5,low
+2026-06-02T17:02:33.452187,What are good sources of protein?,nutrition_qa,"Good sources of protein include:
+
+1. **Meat**: Chicken, turkey, beef, and pork are all high in protein.
+2. **Fish**: Salmon, tuna, and other fish are great options.
+3. **Eggs**: A versatile source of protein.
+4. **Dairy**: Milk, yogurt, and cheese provide protein along with calcium.
+5. **Legumes**: Beans, lentils, and chickpeas are excellent plant-based protein sources.
+6. **Nuts and Seeds**: Almonds, peanuts, chia seeds, and flaxseeds offer protein and healthy fats.
+7. **Tofu and Tempeh**: Great plant-based protein options for vegetarians and vegans.
+
+Including a variety of these foods in your diet can help you meet your protein needs. If you have specific dietary restrictions or goals, consider consulting a nutrition professional for personalized advice.","There are many good sources of protein to choose from. Here are some examples:
+
+1. **Animal-based sources**: chicken, turkey, fish (like salmon and tuna), beef, pork, lamb, eggs, and dairy products (like milk, cheese, and yogurt).
+2. **Plant-based sources**: legumes (like beans, lentils, and peas), nuts and seeds (like almonds, chia seeds, and hemp seeds), whole grains (like quinoa and brown rice), and soy products (like tofu and tempeh).
+3. **Other sources**: protein-fortified foods (like some cereals and energy bars), and meat alternatives (like seitan and veggie burgers).
+
+It's worth noting that you can also get protein from a variety of snacks, like Greek yogurt, cottage cheese, and hard-boiled eggs. If you're looking for more specific information or have dietary restrictions, I'd be happy to help. Would you like more information on a particular type of protein source?",,,low
+2026-06-02T17:02:47.628945,What are good sources of proteinnn,nutrition_qa,"Good sources of protein include:
+
+1. **Meat**: Chicken, turkey, beef, and pork are all high in protein.
+2. **Fish**: Salmon, tuna, and other fish are great options.
+3. **Eggs**: A versatile source of protein.
+4. **Dairy**: Milk, yogurt, and cheese provide protein along with calcium.
+5. **Legumes**: Beans, lentils, and chickpeas are excellent plant-based protein sources.
+6. **Nuts and Seeds**: Almonds, peanuts, chia seeds, and flaxseeds offer protein and healthy fats.
+7. **Tofu and Tempeh**: Great plant-based protein options for vegetarians and vegans.
+
+Including a variety of these foods in your diet can help you meet your protein needs. If you have specific quantities or combinations in mind, I can help estimate the calories!","It seems like you're looking for information on good sources of protein. There are many foods that are high in protein, including:
+
+1. Lean meats like chicken, turkey, and beef
+2. Fish and seafood, such as salmon, tuna, and shrimp
+3. Eggs and dairy products, like milk, cheese, and yogurt
+4. Legumes, including beans, lentils, and peas
+5. Nuts and seeds, like almonds, chia seeds, and hemp seeds
+6. Tofu and other soy products
+7. Whole grains, such as quinoa and farro
+
+These foods can be great additions to a balanced diet. If you're looking for specific calorie estimates or have particular dietary needs, I'd be happy to help with that as well. Would you like more information on any of these protein sources?",,,low
+2026-06-02T17:02:53.634352,What are good sources of proteinnnhgبلتن,nutrition_qa,"Good sources of protein include:
+
+1. **Meat**: Chicken, turkey, beef, and pork are all high in protein.
+2. **Fish**: Salmon, tuna, and other fish are great sources.
+3. **Eggs**: Whole eggs are very nutritious and packed with protein.
+4. **Dairy**: Milk, yogurt, and cheese provide protein along with calcium.
+5. **Legumes**: Beans, lentils, and chickpeas are excellent plant-based protein sources.
+6. **Nuts and Seeds**: Almonds, peanuts, chia seeds, and flaxseeds offer protein and healthy fats.
+7. **Tofu and Tempeh**: These soy products are great for vegetarians and vegans.
+
+Including a variety of these foods in your diet can help you meet your protein needs. If you have specific dietary restrictions or goals, consider consulting a nutritionist for personalized advice!","There are many good sources of protein. Here are some examples:
+
+1. **Lean meats**: Chicken, turkey, and lean beef are all high in protein.
+2. **Fish and seafood**: Salmon, tuna, and shrimp are good sources of protein.
+3. **Eggs**: Eggs are a great source of protein and can be boiled, scrambled, or made into omelets.
+4. **Legumes**: Beans, lentils, and peas are all high in protein and fiber.
+5. **Nuts and seeds**: Almonds, chia seeds, and hemp seeds are all good sources of protein.
+6. **Dairy**: Milk, Greek yogurt, and cottage cheese are all high in protein.
+7. **Tofu and tempeh**: These soy-based products are great sources of protein for vegetarians and vegans.
+8. **Whole grains**: Quinoa, farro, and bulgur are all good sources of protein and fiber.
+
+It's always a good idea to consult with a healthcare professional or registered dietitian to determine the best sources of protein for your individual needs. They can help you create a personalized meal plan that meets your nutritional requirements.",,,low
+2026-06-02T17:06:18.075561,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: Chicken breast is high in protein, which contributes to most of the calories.
+- Fat: It has a low fat content, which keeps the calorie count relatively lower compared to other meats.
+
+Keep in mind that cooking methods and any added ingredients (like oil or sauces) can change the calorie count. If you have more specific details or additional foods, feel free to share!","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, which provides around 124-140 calories (since 1 gram of protein is approximately 4 calories).
+- It also contains a small amount of fat, roughly 3-4 grams, which adds about 27-36 calories (since 1 gram of fat is approximately 9 calories).
+
+Given these values, the total calorie estimate for 100g of cooked chicken breast would be approximately 151-176 calories. Please note that this is an estimate, as exact calorie content can vary depending on the specific cut of chicken, cooking method, and other factors.",,170.5,low
+2026-06-02T17:06:31.919347,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: About 31 grams (which contributes to most of the calories)
+- Fat: About 3.6 grams
+- Carbohydrates: 0 grams
+
+So, the total estimate for 100 grams of chicken breast is around 165 calories. Keep in mind that cooking methods and any added ingredients can change the calorie count slightly.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, which provides approximately 124-140 calories (since 1 gram of protein is about 4 calories).
+- It also contains some fat, roughly 3-4 grams, which provides around 27-36 calories (since 1 gram of fat is about 9 calories).
+
+Given these values, the total calorie estimate for 100g of cooked chicken breast would be approximately 151-176 calories. However, please note that this can vary slightly depending on the specific cut, cooking method, and any potential added ingredients. For a more precise calculation, it's always best to consult a reliable nutrition source or a professional.",,170.5,low
+2026-06-02T17:07:21.890148,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: Chicken breast is high in protein, providing about 31 grams per 100 grams, which contributes to its calorie content.
+- Fat: It contains about 3.6 grams of fat, which also adds to the total calories.
+- Carbohydrates: Chicken breast has negligible carbohydrates, so they don't significantly affect the calorie count.
+
+So, the total estimate for 100 grams of chicken breast is around 165 calories. Keep in mind that cooking methods and added ingredients can change this number slightly.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like oils or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, which provides around 124-140 calories (assuming 4 calories per gram of protein).
+- It also contains about 3-4 grams of fat, which provides around 27-36 calories (assuming 9 calories per gram of fat).
+- The carbohydrate content is relatively low, around 0 grams, so it contributes negligible calories.
+
+Given these values, the total estimated calorie count for 100g of cooked chicken breast is approximately 151-176 calories. Please note that this is an estimate and actual calorie content may vary depending on the specific cooking method, added ingredients, and the chicken's origin.",,170.5,low
+2026-06-02T17:07:29.703124,Give me a safe weight-loss meal idea,nutrition_qa,"For a safe weight-loss meal, it's important to focus on balanced nutrition rather than extreme restriction. Here’s a simple meal idea:
+
+**Grilled Chicken Salad:**
+
+- **Grilled Chicken Breast (4 oz)**: About 165 calories
+- **Mixed Greens (2 cups)**: About 10 calories
+- **Cherry Tomatoes (1/2 cup)**: About 15 calories
+- **Cucumber (1/2 medium)**: About 8 calories
+- **Olive Oil (1 tablespoon)**: About 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: About 14 calories
+
+**Total Estimated Calories**: 332 calories
+
+**Assumptions**:
+- The chicken is grilled without added fats.
+- The salad is fresh with no additional toppings or dressings beyond olive oil and vinegar.
+
+This meal is nutritious, filling, and can help with weight loss when combined with a balanced diet and regular physical activity. Always consider consulting a nutritionist for personalized advice!","For a safe weight-loss meal idea, consider a balanced dish that includes protein, healthy fats, and complex carbohydrates. Here's a suggestion:
+
+Grilled chicken breast with roasted vegetables and quinoa.
+
+**Breakdown:**
+- 4 oz grilled chicken breast: approximately 120-140 calories
+- 1 cup mixed roasted vegetables (such as broccoli, carrots, bell peppers): approximately 50-60 calories
+- 1/2 cup cooked quinoa: approximately 100-110 calories
+
+**Total estimated calories:** approximately 270-310 calories
+
+Please note that calorie estimates may vary based on specific ingredients, cooking methods, and portion sizes. This meal idea is designed to be nutrient-dense and relatively low in calories, but it's essential to consider your individual calorie needs and overall diet.
+
+For personalized nutrition advice and to ensure safe and effective weight loss, I recommend consulting a registered dietitian or a healthcare professional. They can help you create a tailored meal plan that suits your needs and promotes a healthy lifestyle.",,321.0,low
+2026-06-02T17:07:31.322708,Give me a safe weight-loss meal idea,nutrition_qa,"I can help with meal ideas that are nutritious and can support a healthy lifestyle. A balanced meal for weight loss might include lean protein, whole grains, and plenty of vegetables. 
+
+Here’s a simple meal idea:
+
+**Grilled Chicken Salad:**
+- **Grilled Chicken Breast (4 oz)**: Approximately 165 calories
+- **Mixed Greens (2 cups)**: Approximately 10 calories
+- **Cherry Tomatoes (1/2 cup)**: Approximately 15 calories
+- **Cucumber (1/2 medium)**: Approximately 8 calories
+- **Olive Oil (1 tablespoon)**: Approximately 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: Approximately 14 calories
+
+**Total Estimate:** About 332 calories
+
+This meal is rich in protein, fiber, and healthy fats, which can help you feel full and satisfied. Remember, portion sizes and specific ingredients can affect the total calorie count, so these are just estimates. 
+
+For personalized advice, especially if you have specific dietary needs or goals, consider consulting a registered dietitian or nutritionist.","For a safe weight-loss meal idea, consider a balanced and nutritious approach. Here's a suggestion:
+
+Grilled chicken breast with roasted vegetables and quinoa. 
+
+This meal provides a good mix of protein, healthy fats, and complex carbohydrates. 
+
+To estimate the calories, let's break it down:
+- 3 oz grilled chicken breast: approximately 110-120 calories
+- 1 cup mixed roasted vegetables (like broccoli, carrots, and bell peppers): approximately 50-60 calories
+- 1/2 cup cooked quinoa: approximately 100-110 calories
+
+Total estimated calories: approximately 260-290 calories
+
+Please note that these values can vary based on specific ingredients, cooking methods, and portion sizes. It's also important to stay hydrated and listen to your body's nutritional needs.
+
+For a personalized meal plan or weight-loss advice, I recommend consulting a registered dietitian or a healthcare professional. They can provide you with tailored guidance and support to help you achieve your health goals safely and effectively.",,311.0,low
+2026-06-02T17:10:56.889422,What are good sources of protein?,nutrition_qa,"Good sources of protein include:
+
+1. **Meat**: Chicken, turkey, beef, and pork are all high in protein.
+2. **Fish**: Salmon, tuna, and other fish provide protein and healthy fats.
+3. **Eggs**: A great source of protein and very versatile.
+4. **Dairy**: Milk, yogurt, and cheese are rich in protein.
+5. **Legumes**: Beans, lentils, and chickpeas are excellent plant-based protein sources.
+6. **Nuts and Seeds**: Almonds, peanuts, chia seeds, and flaxseeds offer protein along with healthy fats.
+7. **Tofu and Tempeh**: Great plant-based options for protein.
+
+Including a variety of these foods in your diet can help you meet your protein needs. If you have specific dietary restrictions or goals, consider consulting a nutrition professional for personalized advice.","There are many good sources of protein to choose from. Here are some examples:
+
+1. **Animal-based sources**: Chicken, turkey, fish (like salmon and tuna), beef, pork, lamb, eggs, and dairy products (like milk, cheese, and yogurt).
+2. **Plant-based sources**: Legumes (like beans, lentils, and peas), nuts and seeds (like almonds, chia seeds, and hemp seeds), whole grains (like quinoa and brown rice), and soy products (like tofu and tempeh).
+3. **Other sources**: Tofu, edamame, and seitan (made from wheat gluten) are also high in protein.
+
+It's worth noting that you can get enough protein from a variety of foods, and it's not necessary to get it all from one source. If you're concerned about getting enough protein, it's always a good idea to consult with a healthcare professional or registered dietitian for personalized advice.",,,low
+2026-06-02T17:11:01.828836,Give me a safe weight-loss meal idea,nutrition_qa,"I can help you with a nutritious meal idea that can support a healthy lifestyle. Here’s a simple and balanced meal suggestion:
+
+**Grilled Chicken Salad:**
+
+- **Grilled Chicken Breast (4 oz)**: About 165 calories
+- **Mixed Greens (2 cups)**: About 10 calories
+- **Cherry Tomatoes (1/2 cup)**: About 15 calories
+- **Cucumber (1/2 medium)**: About 8 calories
+- **Olive Oil (1 tablespoon for dressing)**: About 120 calories
+- **Balsamic Vinegar (1 tablespoon)**: About 14 calories
+
+**Total Estimated Calories: 332 calories**
+
+**Assumptions:**
+- The chicken is skinless and grilled without added fats.
+- The salad is made with fresh vegetables.
+- The olive oil is used as a dressing, which adds healthy fats.
+
+This meal is balanced with protein, healthy fats, and plenty of vegetables, which can help you feel full and satisfied. Remember, it's important to eat a variety of foods and listen to your body's hunger cues. If you're looking for personalized advice, consider consulting a registered dietitian or nutritionist.","For a safe weight-loss meal idea, consider a balanced plate with protein, healthy fats, and complex carbohydrates. Here's a suggestion:
+
+Grilled chicken breast (4 oz) with roasted vegetables (1 cup) and quinoa (1/2 cup). 
+
+This meal provides approximately:
+- 4 oz grilled chicken breast: 120-140 calories
+- 1 cup roasted vegetables: 50-70 calories
+- 1/2 cup cooked quinoa: 100-110 calories
+
+Total estimated calories: 270-320 calories
+
+Please note that calorie estimates may vary based on specific ingredients, cooking methods, and portion sizes. It's also important to stay hydrated and listen to your body's nutritional needs.
+
+For personalized nutrition advice, consider consulting a registered dietitian or a healthcare professional. They can help you create a tailored meal plan that suits your needs and promotes a healthy weight loss journey.",,326.0,low
+2026-06-02T17:11:06.865140,hi,out_of_domain,,,,,blocked
+2026-06-02T17:11:12.903743,sf,out_of_domain,,,,,blocked
+2026-06-02T17:11:17.107515,100,out_of_domain,,,,,blocked
+2026-06-02T17:11:51.765003,100,out_of_domain,,,,,blocked
+2026-06-02T17:12:00.087506,How many calories are in 100g chicken breast?,calorie_estimation,"In 100 grams of cooked, skinless chicken breast, there are approximately 165 calories. 
+
+Here's a simple breakdown:
+- Protein: About 31 grams (which contributes to most of the calories)
+- Fat: About 3.6 grams
+- Carbohydrates: 0 grams
+
+So, the total estimate for 100 grams of chicken breast is around 165 calories. Keep in mind that cooking methods and any added ingredients (like oil or sauces) can change the calorie count.","To estimate the calories in 100g of chicken breast, I'll make a few assumptions. I'll assume the chicken breast is cooked and without any added ingredients like sauces or seasonings.
+
+Here's a breakdown:
+- 100g cooked chicken breast typically contains about 31-35 grams of protein, which provides approximately 124-140 calories (since 1 gram of protein is about 4 calories).
+- It also contains a small amount of fat, roughly 3-4 grams, which adds around 27-36 calories (since 1 gram of fat is about 9 calories).
+
+Given these values, the total calorie estimate for 100g of cooked chicken breast would be approximately 151-176 calories. Please note that this is an estimate, as exact calorie content can vary depending on the specific cut of chicken, cooking method, and other factors.",,170.5,low
+2026-06-02T17:12:01.328348,I want to eat only 300 calories per day,unsafe,,,,,blocked
+2026-06-02T17:12:35.028322,I want to eat only 300 calories per day,unsafe,,,,,blocked
+2026-06-02T17:13:23.983671,What are good sources of protein?,nutrition_qa,"Good sources of protein include:
+
+1. **Meat**: Chicken, turkey, beef, and pork are all high in protein.
+2. **Fish**: Salmon, tuna, and other fish are great sources.
+3. **Eggs**: Whole eggs are very nutritious and high in protein.
+4. **Dairy**: Milk, yogurt, and cheese provide protein along with calcium.
+5. **Legumes**: Beans, lentils, and chickpeas are excellent plant-based protein sources.
+6. **Nuts and Seeds**: Almonds, peanuts, chia seeds, and flaxseeds offer protein and healthy fats.
+7. **Tofu and Tempeh**: These soy products are great for vegetarians and vegans.
+
+Including a variety of these foods in your diet can help you meet your protein needs. If you have specific dietary restrictions or goals, consider consulting with a nutrition professional for personalized advice.","There are many good sources of protein to include in your diet. Here are some examples:
+
+1. **Lean meats**: Chicken, turkey, and lean beef are all high in protein.
+2. **Fish and seafood**: Fatty fish like salmon, tuna, and tilapia, as well as shrimp, lobster, and crab, are excellent protein sources.
+3. **Eggs**: Eggs are a great source of protein and can be boiled, scrambled, or made into omelets.
+4. **Legumes**: Beans, lentils, and peas are all high in protein and fiber, making them a nutritious choice.
+5. **Nuts and seeds**: Almonds, chia seeds, and hemp seeds are all good sources of protein and healthy fats.
+6. **Dairy**: Milk, Greek yogurt, and cottage cheese are all high in protein and can be incorporated into your diet.
+7. **Tofu and tempeh**: These soy-based products are great protein sources for vegetarians and vegans.
+8. **Whole grains**: Quinoa, farro, and bulgur are all good sources of protein and fiber.
+
+Remember to vary your protein sources to ensure you're getting all the essential amino acids your body needs. If you have specific dietary needs or restrictions, it's always a good idea to consult with a healthcare professional or registered dietitian for personalized advice.",,,low
+2026-06-02T17:13:58.486284,What are good sources of protein?,nutrition_qa,"Good sources of protein include:
+
+1. **Meat**: Chicken, turkey, beef, and pork are all high in protein.
+2. **Fish**: Salmon, tuna, and other fish are great options.
+3. **Eggs**: A versatile source of protein.
+4. **Dairy**: Milk, yogurt, and cheese provide protein along with calcium.
+5. **Legumes**: Beans, lentils, and chickpeas are excellent plant-based protein sources.
+6. **Nuts and Seeds**: Almonds, peanuts, chia seeds, and flaxseeds offer protein and healthy fats.
+7. **Tofu and Tempeh**: Great plant-based protein options for vegetarians and vegans.
+
+Including a variety of these foods in your diet can help you meet your protein needs. If you have specific dietary restrictions or goals, consider consulting a nutrition professional for personalized advice.","There are many good sources of protein to choose from. Here are some examples:
+
+1. **Animal-based sources**: chicken, beef, fish, eggs, dairy products like milk, cheese, and yogurt.
+2. **Plant-based sources**: beans (like black beans, chickpeas, and kidney beans), lentils, tofu, tempeh, nuts, and seeds (like almonds, chia seeds, and hemp seeds).
+3. **Legumes**: peas, soybeans, and peanuts.
+4. **Whole grains**: quinoa, farro, and some types of bread and pasta.
+
+It's worth noting that you can also get protein from meat alternatives like seitan and veggie burgers, as well as protein-fortified foods like some types of cereal and energy bars.
+
+If you're looking for specific protein-rich foods, I can try to provide more information or estimate the protein content of certain foods. Just let me know!",,,low
