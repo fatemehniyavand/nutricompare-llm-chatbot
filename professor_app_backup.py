@@ -62,6 +62,7 @@ Finally, the results are stored and used by analytics, reporting, and leaderboar
     st.code("""
 User Question
       ↓
+Streamlit User Interface
       ↓
 AskNutritionQuestionUseCase
       ↓
@@ -97,7 +98,8 @@ Analytics / Reports / Leaderboard
     component = st.selectbox(
         "Select a component to see its role in the system:",
         [
-                        "AskNutritionQuestionUseCase",
+            "Streamlit User Interface",
+            "AskNutritionQuestionUseCase",
             "ChatService",
             "InputGuardService",
             "MealCommandHandler",
@@ -111,7 +113,16 @@ Analytics / Reports / Leaderboard
         ],
     )
 
-    if component == "AskNutritionQuestionUseCase":
+    if component == "Streamlit User Interface":
+        st.markdown("""
+### Streamlit User Interface
+
+The Streamlit interface is the presentation layer of the project. It receives the user question, displays the answers from both models, shows judge results, and provides access to analytics and reports.
+
+**Related layer:** Presentation layer
+""")
+
+    elif component == "AskNutritionQuestionUseCase":
         st.markdown("""
 ### AskNutritionQuestionUseCase
 
